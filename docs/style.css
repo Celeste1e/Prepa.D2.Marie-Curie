@@ -56,3 +56,8 @@ header {
     margin-top: 20px;
     text-align: center;
 }
+body {
+    background-image: url('background.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+}
