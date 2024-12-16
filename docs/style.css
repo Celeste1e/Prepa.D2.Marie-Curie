@@ -57,7 +57,7 @@ header {
     text-align: center;
 }
 body {
-    background-image: url('background.jpeg');
+    background-image: url('./background.jpeg');
     background-size: cover;
     background-attachment: fixed;
     margin: 0;
